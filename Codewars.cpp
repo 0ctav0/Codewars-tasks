@@ -2,9 +2,10 @@
 //
 
 #include <iostream>
-#include "SquareEveryDigit.cpp"
+#include "SquareEveryDigit.h"
 
 int main()
 {
-   square_digits(123);
+   //std::cout << 
+   square_digits(24680);
 }

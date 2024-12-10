@@ -35,5 +35,8 @@
     <ClInclude Include="DigPow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="SortOdd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

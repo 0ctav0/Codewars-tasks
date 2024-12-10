@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AlphabetPosition.cpp" />
     <ClCompile Include="Codewars.cpp" />
     <ClCompile Include="SquareEveryDigit.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AlphabetPosition.h" />
     <ClInclude Include="SquareEveryDigit.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

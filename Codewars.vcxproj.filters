@@ -21,9 +21,15 @@
     <ClCompile Include="SquareEveryDigit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="AlphabetPosition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SquareEveryDigit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AlphabetPosition.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

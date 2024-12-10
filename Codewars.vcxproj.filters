@@ -32,5 +32,8 @@
     <ClInclude Include="AlphabetPosition.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="DigPow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

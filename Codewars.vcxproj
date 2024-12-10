@@ -133,6 +133,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AlphabetPosition.h" />
+    <ClInclude Include="DigPow.h" />
     <ClInclude Include="SquareEveryDigit.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,7 +1,7 @@
 #include <iostream>
-#include "AlphabetPosition.h"
+#include "DigPow.h"
 
 int main()
 {
-   std::cout << alphabet_position("adsds");
+   std::cout << digit_pow(46288, 3);
 }

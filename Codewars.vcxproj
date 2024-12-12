@@ -138,6 +138,7 @@
     <ClInclude Include="SortOdd.h" />
     <ClInclude Include="SquareEveryDigit.h" />
     <ClInclude Include="ToCamelCase.h" />
+    <ClInclude Include="UniqueInOrder.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

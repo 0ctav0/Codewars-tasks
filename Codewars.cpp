@@ -1,8 +1,12 @@
 #include <iostream>
-#include "UniqueInOrder.h"
+#include "DirectionReduction.h"
 
 int main()
 {
-   for (auto v : uniqueInOrder({ 'Y', 'a', 'a', 'Y', 'a', 'a', 'X', 'b', 'Z', 'Z', 'a', 'a', 'b', 'b', 'b', 'a', 'a', 'a' }))
-      std::cout << v;
+
+   for (auto v : DirReduction::dirReduc(
+      { "NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST" }
+      //{ "NORTH","SOUTH","SOUTH","EAST","WEST","NORTH", "NORTH" }
+   ))
+      std::cout << v << " ";
 }

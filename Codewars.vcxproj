@@ -136,6 +136,7 @@
     <ClInclude Include="AlphabetPosition.h" />
     <ClInclude Include="DigPow.h" />
     <ClInclude Include="DirectionReduction.h" />
+    <ClInclude Include="Snail.h" />
     <ClInclude Include="SortOdd.h" />
     <ClInclude Include="SquareEveryDigit.h" />
     <ClInclude Include="ToCamelCase.h" />
